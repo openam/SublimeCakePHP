@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[${1:echo }\$this->Time->format('${2:Y-m-d}', ${4:'TimeString'}, ${5:false}${6:, ${7:offset}});]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>timef</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Time->format()</description>
+</snippet>

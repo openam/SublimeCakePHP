@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[/**
+ * hasOne associations
+ *
+ * @var array
+ */
+	public \$hasOne = array(
+		'${1:Model}' => array(
+			'className'  => '${1:Model}',
+			'foreignKey' => '${2:foreign_id}',
+			'dependent'  => ${3:true}
+		)$10
+	);
+
+]]></content>
+	<tabTrigger>ho</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $hasOne = array()</description>
+</snippet>

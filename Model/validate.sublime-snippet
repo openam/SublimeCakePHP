@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[/**
+ * validation rules
+ *
+ * @var array
+ */
+	public $validate = array(
+		'${1:field}' => array(
+			'${2:ruleName}'   => array(
+				'rule'       => array('${2:ruleName}'),
+				'message'    => '${3:Validation Error Message}',
+				//'allowEmpty' => ${4:false},
+				//'required'   => ${6:false},
+				//'last'       => ${8:false}, // Stop validation after this rule
+				//'on'         => '${10:create}' // Limit validation to 'create' or 'update' operations
+			),
+		)$20
+	);
+
+]]></content>
+	<tabTrigger>val</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $valitade = array()</description>
+</snippet>

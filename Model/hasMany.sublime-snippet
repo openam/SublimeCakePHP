@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[/**
+ * hasMany associations
+ *
+ * @var array
+ */
+	public \$hasMany = array(
+		'${1:Model}' => array(
+			'className'  => '${1:Model}',
+			'foreignKey' => '${2:foreign_id}',
+			'dependent'  => ${3:false}${4:,
+			'conditions' => array('${5:Model.field}' => '${6:value}')}
+		)$10
+	);
+
+]]></content>
+	<tabTrigger>hm</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $hasMany = array()</description>
+</snippet>

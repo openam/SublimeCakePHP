@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->css(array(
+	'${1:path/to/script}',$2
+));]]></content>
+	<tabTrigger>css</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->css()</description>
+</snippet>

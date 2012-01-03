@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[/**
+ * hasAndBelongsToMany associations
+ *
+ * @var array
+ */
+	public \$hasAndBelongsToMany = array(
+		'${1:Model}' => array(
+			'className'             => '${1:Model}',
+			'joinTable'             => '${2:joins_tables}',
+			'foreignKey'            => '${3:foreign_id}',
+			'associationForeignKey' => '${4:foreign_id}',
+			'unique'                => ${5:true}
+		)$10
+	);
+
+]]></content>
+	<tabTrigger>habtm</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $hasAndBelongsTo = array()</description>
+</snippet>

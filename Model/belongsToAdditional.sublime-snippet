@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA['${1:Model}' => array(
+	'className'  => '${1:Model}',
+	'foreignKey' => '${2:foreign_id}'
+)$10
+]]></content>
+	<tabTrigger>bta</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $belongsTo additional</description>
+</snippet>

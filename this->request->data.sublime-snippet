@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[\$this->${1:request->}data['${2:Model}']['${3:field}']$4;$5]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>trd</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->request->data['Model']['field']</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->script(array('${1:path/to/script}'$2));]]></content>
+	<tabTrigger>script</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->script()</description>
+</snippet>
