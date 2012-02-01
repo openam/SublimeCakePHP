@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[debug(${1:variable});]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: debug();</description>
+</snippet>
