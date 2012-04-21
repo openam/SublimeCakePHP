@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->url('${1:\$type}', '${2:\$url}', ${3:array('${4:\$options}')});$5]]></content>
+	<tabTrigger>meta</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->meta()</description>
+</snippet>

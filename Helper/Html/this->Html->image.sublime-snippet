@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->image('${1:\$path}', array('alt'=> '${2:altText}'$3));$10]]></content>
+	<tabTrigger>image</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->image()</description>
+</snippet>
