@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Number->precision(${1:\$number}, ${2:\$precision});$10]]></content>
+	<tabTrigger>precision</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Number->precision()</description>
+</snippet>

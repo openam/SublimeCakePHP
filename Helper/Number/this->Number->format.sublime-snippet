@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Number->format(${1:\$number}, ${2:array(${3:formatOptions$4})});$10]]></content>
+	<tabTrigger>format</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Number->format()</description>
+</snippet>

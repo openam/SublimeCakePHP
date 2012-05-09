@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+
+	'before'           => '',
+	'after'            => '',
+	'wholeSymbol'      => '\$',
+	'wholePosition'    => 'before',
+	'fractionSymbol'   => '&cent;',
+	'fractionPosition' => 'after',
+	'zero'             => 0,
+	'places'           => 2,
+	'thousands'        => ',',
+	'decimals'         => '.',
+	'negative'         => '()',
+	'escape'           => true
+
+]]></content>
+	<tabTrigger>addFormatOptions</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $addFormatOptions</description>
+</snippet>

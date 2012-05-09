@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+
+    'places'    => 2,
+    'before'    => '\$ ',
+    'escape'    => false,
+    'decimals'  => '.',
+    'thousands' => ','
+
+]]></content>
+	<tabTrigger>formatOptions</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $formatOptions</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Number->currency(${1:\$number}, ${2:\$currency}, ${3:array(${4:currencyOptions$5})});$10]]></content>
+	<tabTrigger>currency</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Number->currency()</description>
+</snippet>
