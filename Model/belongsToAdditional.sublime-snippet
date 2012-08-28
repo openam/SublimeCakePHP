@@ -1,7 +1,10 @@
 <snippet>
 	<content><![CDATA['${1:Model}' => array(
 	'className'  => '${1:Model}',
-	'foreignKey' => '${2:foreign_id}'
+	'foreignKey' => '${2:foreign_id}',
+	//'conditions' => '',
+	//'fields'     => '',
+	//'order'      => ''
 )$10
 ]]></content>
 	<tabTrigger>bta</tabTrigger>

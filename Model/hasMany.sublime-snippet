@@ -9,7 +9,14 @@
 			'className'  => '${1:Model}',
 			'foreignKey' => '${2:foreign_id}',
 			'dependent'  => ${3:false}${4:,
-			'conditions' => array('${5:Model.field}' => '${6:value}')}
+			'conditions' => array('${5:Model.field}' => '${6:value}')},
+			//'fields'       => '',
+			//'order'        => '',
+			//'limit'        => '',
+			//'offset'       => '',
+			//'exclusive'    => '',
+			//'finderQuery'  => '',
+			//'counterQuery' => ''
 		)$10
 	);
 

@@ -7,8 +7,8 @@
 	public $validate = array(
 		'${1:field}' => array(
 			'${2:ruleName}'   => array(
-				'rule'       => array('${2:ruleName}'),
-				'message'    => '${3:Validation Error Message}',
+				'rule'    => array('${2:ruleName}'),
+				'message' => '${3:Validation Error Message}',
 				//'allowEmpty' => ${4:false},
 				//'required'   => ${6:false},
 				//'last'       => ${8:false}, // Stop validation after this rule
