@@ -7,26 +7,48 @@ Sublime CakePHP is a bundle of Snippets for [CakePHP](http://cakephp.org). The s
 
 Model Specific Snippets:
 
-    * belongsTo            : bt
-    * hasAndBelongsToMany  : habtm
-    * hasMany              : hm
-    * hasOne               : ho
-    * validate             : val
+    * belongsTo                     : bt
+    * hasAndBelongsToMany           : habtm
+    * hasMany                       : hm
+    * hasOne                        : ho
+    * validate                      : val
 
 Helper Snippets
 
-    * $this->Html->css     : css
-    * $this->Html->link    : link
-    * $this->Html->script  : script
-    * $this->Html->url     : url
-    * $this->Time->format  : timef
-    * $this->Time->nice    : timen
+    * $this->Html->css              : css
+    * $this->Html->link             : link
+    * $this->Html->script           : script
+    * $this->Html->url              : url
+
+    * $this->Number->addFormat      : addFormat
+    * $this->Number->currency       : currency
+    * $this->Number->format         : format
+    * $this->Number->precision      : precision
+    * $this->Number->toPercentage   : toPercentage
+    * $this->Number->toReadableSize : toReadableSize
+
+    * $this->Time->format           : timef
+    * $this->Time->nice             : timen
 
 Misc Snippets
 
-    * $this->data          : td
-    * $this->request->data : trd
+    * $this->data                   : td
+    * $this->request->data          : trd
+    * debug();                      : db
 
+Utilities
+
+    * Inflector::camelize           : camelize
+    * Inflector::classify           : classify
+    * Inflector::humanize           : humanize
+    * Inflector::pluralize          : pluralize
+    * Inflector::reset              : reset
+    * Inflector::rules              : rules
+    * Inflector::singularize        : singularize
+    * Inflector::slug               : slug
+    * Inflector::tableize           : tablize
+    * Inflector::underscore         : underscore
+    * Inflector::variable           : variable
 
 Installing
 ----------
