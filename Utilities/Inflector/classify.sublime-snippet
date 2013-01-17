@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Inflector::classify(${1:\$underscored})$2]]></content>
+	<tabTrigger>classify</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: Inflector::classify()</description>
+</snippet>

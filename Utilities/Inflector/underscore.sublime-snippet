@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Inflector::underscore(${1:\$camelCase})$2]]></content>
+	<tabTrigger>underscore</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: Inflector::underscore()</description>
+</snippet>
