@@ -1,0 +1,19 @@
+{
+	"schema_version" : "1.2",
+	"packages" : [
+		{
+			"name"       : "SublimeCakePHP",
+			"description": "ST2 Package which includes snippets for CakePHP 2.X!",
+			"author"     : "openam",
+			"homepage"   : "https://github.com/openam/SublimeCakePHP",
+			"platforms"  : {
+				"*" : [
+					{
+						"version": "1.0.0",
+						"url"    : "https://nodeload.github.com/openam/SublimeCakePHP/master"
+					}
+				]
+			}
+		}
+	]
+}
