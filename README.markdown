@@ -38,6 +38,23 @@ Misc Snippets
 
 Utilities
 
+    * CakeLog::config               : config
+    * CakeLog::configured           : configured
+    * CakeLog::defaultLevels        : defaultLevels
+    * CakeLog::disable              : disable
+    * CakeLog::drop                 : drop
+    * CakeLog::enable               : enable
+    * CakeLog::enabled              : enabled
+    * CakeLog::levels               : levels
+    * CakeLog::stream               : stream
+    * CakeLog::write                : write
+    * CakeLog::alert                : alert
+    * CakeLog::critical             : critical
+    * CakeLog::debug                : debug
+    * CakeLog::emergency            : emergency
+    * CakeLog::info                 : info
+    * CakeLog::notice               : notice
+
     * Inflector::camelize           : camelize
     * Inflector::classify           : classify
     * Inflector::humanize           : humanize

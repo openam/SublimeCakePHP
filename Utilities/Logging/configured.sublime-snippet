@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CakeLog::configured();$1]]></content>
+	<tabTrigger>configured</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: CakeLog::configured()</description>
+</snippet>

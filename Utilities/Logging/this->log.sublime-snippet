@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->log(${1:\$message}, ${2:'logName'});$3]]></content>
+	<tabTrigger>log</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->log()</description>
+</snippet>

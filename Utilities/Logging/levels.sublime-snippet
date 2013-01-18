@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CakeLog::levels();$1]]></content>
+	<tabTrigger>levels</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: CakeLog::levels()</description>
+</snippet>

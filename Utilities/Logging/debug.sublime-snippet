@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CakeLog::debug(${1:\$message}, ${2:\$scope = array()});$3]]></content>
+	<tabTrigger>debug</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: CakeLog::debug()</description>
+</snippet>
