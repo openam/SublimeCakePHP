@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CakeNumber::formatDelta(${1:\$number}, ${2:\$options = array()});$3]]></content>
+	<tabTrigger>formatDelta</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: CakeNumber::formatDelta()</description>
+</snippet>

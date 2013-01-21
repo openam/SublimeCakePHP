@@ -76,6 +76,16 @@ Utilities
     * CakeLog::info                 : info
     * CakeLog::notice               : notice
 
+    * CakeNumber::addFormat         : addFormat
+    * CakeNumber::currency          : currency
+    * CakeNumber::defaultCurrency   : defaultCurrency
+    * CakeNumber::format            : format
+    * CakeNumber::formatDelta       : formatDelta
+    * CakeNumber::fromReadableSize  : fromReadableSize
+    * CakeNumber::precision         : precision
+    * CakeNumber::toPercentage      : toPercentage
+    * CakeNumber::toReadableSize    : toReadableSize
+
     * Inflector::camelize           : camelize
     * Inflector::classify           : classify
     * Inflector::humanize           : humanize

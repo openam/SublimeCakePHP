@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CakeNumber::toReadableSize(${1:\$dataSize});$2]]></content>
+	<tabTrigger>toReadableSize</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: CakeNumber::toReadableSize()</description>
+</snippet>
