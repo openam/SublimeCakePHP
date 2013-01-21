@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[console.dir(${1:variable});]]></content>
+	<tabTrigger>cd</tabTrigger>
+	<scope>source.js</scope>
+	<description>console.dir();</description>
+</snippet>
