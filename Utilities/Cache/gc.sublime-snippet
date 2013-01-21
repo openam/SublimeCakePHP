@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cache::gc(${1:\$config});$3]]></content>
+	<tabTrigger>gc</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: Cache::gc()</description>
+</snippet>

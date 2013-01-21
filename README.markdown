@@ -38,6 +38,17 @@ Misc Snippets
 
 Utilities
 
+    * Cache::clear                  : clear
+    * Cache::clearGroup             : clearGroup
+    * Cache::config                 : config
+    * Cache::decrement              : decrement
+    * Cache::delete                 : delete
+    * Cache::gc                     : gc
+    * Cache::increment              : increment
+    * Cache::read                   : read
+    * Cache::set                    : set
+    * Cache::write                  : write
+
     * CakeLog::config               : config
     * CakeLog::configured           : configured
     * CakeLog::defaultLevels        : defaultLevels

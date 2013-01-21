@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cache::clearGroup(${1:\$group}, ${2:\$config = 'default'});$3]]></content>
+	<tabTrigger>clearGroup</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: Cache::clearGroup()</description>
+</snippet>
