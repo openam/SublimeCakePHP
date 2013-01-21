@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[${1:echo }\$this->Time->nice(${2:'TimeString'});]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>timen</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Time->nice()</description>

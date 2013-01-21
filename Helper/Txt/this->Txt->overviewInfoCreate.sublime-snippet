@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[echo \$this->Txt->overviewInfoCreate('${1:ModelName}');]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>oic</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Txt->overviewInfoCreate();</description>

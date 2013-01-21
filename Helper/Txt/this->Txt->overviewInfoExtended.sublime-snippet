@@ -7,7 +7,6 @@
 	'after' => '$51'}
 ));
 $100]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>oie</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Txt->overviewInfo();</description>
