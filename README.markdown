@@ -13,7 +13,17 @@ Model Specific Snippets:
     * hasOne                        : ho
     * validate                      : val
 
-Helper Snippets
+Components
+
+    * $this->Session->check         : check
+    * $this->Session->delete        : delete
+    * $this->Session->destroy       : destroy
+    * $this->Session->flash         : flash
+    * $this->Session->read          : read
+    * $this->Session->setFlash      : setFlash
+    * $this->Session->write         : write
+
+Helpers
 
     * $this->Html->css              : css
     * $this->Html->link             : link

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Session->write(${1:\$name}, ${2:\$value});$3]]></content>
+	<tabTrigger>write</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Session->write()</description>
+</snippet>
