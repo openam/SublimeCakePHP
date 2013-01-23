@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:echo }\$this->Text->truncate(${2:\$text}, ${3:\$length=100}, ${4:\$options=array()});$5]]></content>
+	<tabTrigger>truncate</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Text->truncate()</description>
+</snippet>

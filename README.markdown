@@ -37,6 +37,16 @@ Helpers
     * $this->Number->toPercentage   : toPercentage
     * $this->Number->toReadableSize : toReadableSize
 
+    * $this->Text->autoLink         : autoLink
+    * $this->Text->autoLinkEmails   : autoLinkEmails
+    * $this->Text->autoLinkUrls     : autoLinkUrls
+    * $this->Text->excerpt          : excerpt
+    * $this->Text->highlight        : highlight
+    * $this->Text->stripLinks       : stripLinks
+    * $this->Text->tail             : tail
+    * $this->Text->toList           : toList
+    * $this->Text->truncate         : truncate
+
     * $this->Time->format           : timef
     * $this->Time->nice             : timen
 

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:echo }\$this->Text->stripLinks(${2:\$text});$3]]></content>
+	<tabTrigger>stripLinks</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Text->stripLinks()</description>
+</snippet>

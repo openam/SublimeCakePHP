@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:echo }\$this->Text->excerpt(${2:\$haystack}, ${3:\$needle}, ${4:\$radius=100}, ${5:\$ellipse='...'});$6]]></content>
+	<tabTrigger>excerpt</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Text->excerpt()</description>
+</snippet>
