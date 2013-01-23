@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:echo }\$this->Time->toAtom(${2:\$dateString}, ${3:\$timezone = null});$4]]></content>
+	<tabTrigger>toAtom</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Time->toAtom()</description>
+</snippet>

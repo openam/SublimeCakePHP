@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:echo }\$this->Time->timeAgoInWords(${2:\$dateString}, ${3:\$options = array()});$4]]></content>
+	<tabTrigger>timeAgoInWords</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Time->timeAgoInWords()</description>
+</snippet>

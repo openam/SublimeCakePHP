@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:echo }\$this->Time->gmt(${2:\$dateString = null});$3]]></content>
+	<tabTrigger>gmt</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Time->gmt()</description>
+</snippet>

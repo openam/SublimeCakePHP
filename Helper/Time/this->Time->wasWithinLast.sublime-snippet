@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:echo }\$this->Time->wasWithinLast(${2:\$timeInterval}, ${3:\$dateString}, ${4:\$timezone = null});$5]]></content>
+	<tabTrigger>wasWithinLast</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Time->wasWithinLast()</description>
+</snippet>

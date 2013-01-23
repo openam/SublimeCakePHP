@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:echo }\$this->Time->daysAsSql(${2:\$begin}, ${3:\$end}, ${4:\$fieldName}, ${5:\$timezone = null});$6]]></content>
+	<tabTrigger>daysAsSql</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Time->daysAsSql()</description>
+</snippet>

@@ -47,8 +47,32 @@ Helpers
     * $this->Text->toList           : toList
     * $this->Text->truncate         : truncate
 
-    * $this->Time->format           : timef
-    * $this->Time->nice             : timen
+    * $this->Time->convert           : convert
+    * $this->Time->convertSpecifiers : convertSpecifiers
+    * $this->Time->dayAsSql          : dayAsSql
+    * $this->Time->daysAsSql         : daysAsSql
+    * $this->Time->format            : format
+    * $this->Time->fromString        : fromString
+    * $this->Time->gmt               : gmt
+    * $this->Time->i18nFormat        : i18nFormat
+    * $this->Time->isThisMonth       : isThisMonth
+    * $this->Time->isThisWeek        : isThisWeek
+    * $this->Time->isThisYear        : isThisYear
+    * $this->Time->isToday           : isToday
+    * $this->Time->isTomorrow        : isTomorrow
+    * $this->Time->listTimezones     : listTimezones
+    * $this->Time->nice              : nice
+    * $this->Time->niceShort         : niceShort
+    * $this->Time->serverOffset      : serverOffset
+    * $this->Time->timeAgoInWords    : timeAgoInWords
+    * $this->Time->timezone          : timezone
+    * $this->Time->toAtom            : toAtom
+    * $this->Time->toQuarter         : toQuarter
+    * $this->Time->toRss             : toRss
+    * $this->Time->toServer          : toServer
+    * $this->Time->toUnix            : toUnix
+    * $this->Time-> wasWithinLast    : wasWithinLast
+    * $this->Time->wasYesterday      : wasYesterday
 
 Misc Snippets
 

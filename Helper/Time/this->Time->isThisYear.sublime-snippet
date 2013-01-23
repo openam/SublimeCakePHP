@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:echo }\$this->Time->isThisYear(${2:\$dateString}, ${3:\$timezone = null});$4]]></content>
+	<tabTrigger>isThisYear</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Time->isThisYear()</description>
+</snippet>
