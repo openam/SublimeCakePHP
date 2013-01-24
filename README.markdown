@@ -7,45 +7,45 @@ Sublime CakePHP is a bundle of Snippets for [CakePHP](http://cakephp.org). The s
 
 Model Specific Snippets:
 
-    * belongsTo                     : bt
-    * hasAndBelongsToMany           : habtm
-    * hasMany                       : hm
-    * hasOne                        : ho
-    * validate                      : val
+    * belongsTo                      : bt
+    * hasAndBelongsToMany            : habtm
+    * hasMany                        : hm
+    * hasOne                         : ho
+    * validate                       : val
 
 Components
 
-    * $this->Session->check         : check
-    * $this->Session->delete        : delete
-    * $this->Session->destroy       : destroy
-    * $this->Session->flash         : flash
-    * $this->Session->read          : read
-    * $this->Session->setFlash      : setFlash
-    * $this->Session->write         : write
+    * $this->Session->check          : check
+    * $this->Session->delete         : delete
+    * $this->Session->destroy        : destroy
+    * $this->Session->flash          : flash
+    * $this->Session->read           : read
+    * $this->Session->setFlash       : setFlash
+    * $this->Session->write          : write
 
 Helpers
 
-    * $this->Html->css              : css
-    * $this->Html->link             : link
-    * $this->Html->script           : script
-    * $this->Html->url              : url
+    * $this->Html->css               : css
+    * $this->Html->link              : link
+    * $this->Html->script            : script
+    * $this->Html->url               : url
 
-    * $this->Number->addFormat      : addFormat
-    * $this->Number->currency       : currency
-    * $this->Number->format         : format
-    * $this->Number->precision      : precision
-    * $this->Number->toPercentage   : toPercentage
-    * $this->Number->toReadableSize : toReadableSize
+    * $this->Number->addFormat       : addFormat
+    * $this->Number->currency        : currency
+    * $this->Number->format          : format
+    * $this->Number->precision       : precision
+    * $this->Number->toPercentage    : toPercentage
+    * $this->Number->toReadableSize  : toReadableSize
 
-    * $this->Text->autoLink         : autoLink
-    * $this->Text->autoLinkEmails   : autoLinkEmails
-    * $this->Text->autoLinkUrls     : autoLinkUrls
-    * $this->Text->excerpt          : excerpt
-    * $this->Text->highlight        : highlight
-    * $this->Text->stripLinks       : stripLinks
-    * $this->Text->tail             : tail
-    * $this->Text->toList           : toList
-    * $this->Text->truncate         : truncate
+    * $this->Text->autoLink          : autoLink
+    * $this->Text->autoLinkEmails    : autoLinkEmails
+    * $this->Text->autoLinkUrls      : autoLinkUrls
+    * $this->Text->excerpt           : excerpt
+    * $this->Text->highlight         : highlight
+    * $this->Text->stripLinks        : stripLinks
+    * $this->Text->tail              : tail
+    * $this->Text->toList            : toList
+    * $this->Text->truncate          : truncate
 
     * $this->Time->convert           : convert
     * $this->Time->convertSpecifiers : convertSpecifiers
@@ -76,61 +76,61 @@ Helpers
 
 Misc Snippets
 
-    * $this->data                   : td
-    * $this->request->data          : trd
-    * debug();                      : db
+    * $this->data                    : td
+    * $this->request->data           : trd
+    * debug();                       : db
 
 Utilities
 
-    * Cache::clear                  : clear
-    * Cache::clearGroup             : clearGroup
-    * Cache::config                 : config
-    * Cache::decrement              : decrement
-    * Cache::delete                 : delete
-    * Cache::gc                     : gc
-    * Cache::increment              : increment
-    * Cache::read                   : read
-    * Cache::set                    : set
-    * Cache::write                  : write
+    * Cache::clear                   : clear
+    * Cache::clearGroup              : clearGroup
+    * Cache::config                  : config
+    * Cache::decrement               : decrement
+    * Cache::delete                  : delete
+    * Cache::gc                      : gc
+    * Cache::increment               : increment
+    * Cache::read                    : read
+    * Cache::set                     : set
+    * Cache::write                   : write
 
-    * CakeLog::config               : config
-    * CakeLog::configured           : configured
-    * CakeLog::defaultLevels        : defaultLevels
-    * CakeLog::disable              : disable
-    * CakeLog::drop                 : drop
-    * CakeLog::enable               : enable
-    * CakeLog::enabled              : enabled
-    * CakeLog::levels               : levels
-    * CakeLog::stream               : stream
-    * CakeLog::write                : write
-    * CakeLog::alert                : alert
-    * CakeLog::critical             : critical
-    * CakeLog::debug                : debug
-    * CakeLog::emergency            : emergency
-    * CakeLog::info                 : info
-    * CakeLog::notice               : notice
+    * CakeLog::config                : config
+    * CakeLog::configured            : configured
+    * CakeLog::defaultLevels         : defaultLevels
+    * CakeLog::disable               : disable
+    * CakeLog::drop                  : drop
+    * CakeLog::enable                : enable
+    * CakeLog::enabled               : enabled
+    * CakeLog::levels                : levels
+    * CakeLog::stream                : stream
+    * CakeLog::write                 : write
+    * CakeLog::alert                 : alert
+    * CakeLog::critical              : critical
+    * CakeLog::debug                 : debug
+    * CakeLog::emergency             : emergency
+    * CakeLog::info                  : info
+    * CakeLog::notice                : notice
 
-    * CakeNumber::addFormat         : addFormat
-    * CakeNumber::currency          : currency
-    * CakeNumber::defaultCurrency   : defaultCurrency
-    * CakeNumber::format            : format
-    * CakeNumber::formatDelta       : formatDelta
-    * CakeNumber::fromReadableSize  : fromReadableSize
-    * CakeNumber::precision         : precision
-    * CakeNumber::toPercentage      : toPercentage
-    * CakeNumber::toReadableSize    : toReadableSize
+    * CakeNumber::addFormat          : addFormat
+    * CakeNumber::currency           : currency
+    * CakeNumber::defaultCurrency    : defaultCurrency
+    * CakeNumber::format             : format
+    * CakeNumber::formatDelta        : formatDelta
+    * CakeNumber::fromReadableSize   : fromReadableSize
+    * CakeNumber::precision          : precision
+    * CakeNumber::toPercentage       : toPercentage
+    * CakeNumber::toReadableSize     : toReadableSize
 
-    * Inflector::camelize           : camelize
-    * Inflector::classify           : classify
-    * Inflector::humanize           : humanize
-    * Inflector::pluralize          : pluralize
-    * Inflector::reset              : reset
-    * Inflector::rules              : rules
-    * Inflector::singularize        : singularize
-    * Inflector::slug               : slug
-    * Inflector::tableize           : tablize
-    * Inflector::underscore         : underscore
-    * Inflector::variable           : variable
+    * Inflector::camelize            : camelize
+    * Inflector::classify            : classify
+    * Inflector::humanize            : humanize
+    * Inflector::pluralize           : pluralize
+    * Inflector::reset               : reset
+    * Inflector::rules               : rules
+    * Inflector::singularize         : singularize
+    * Inflector::slug                : slug
+    * Inflector::tableize            : tablize
+    * Inflector::underscore          : underscore
+    * Inflector::variable            : variable
 
 Installing
 ----------
