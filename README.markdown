@@ -157,7 +157,7 @@ The "Packages" directory should be located at:
 * OS X:
     ~/Library/Application Support/Sublime Text 2/Packages
 * Linux:
-    ~/.config/sublime_text_2/Packages
+    ~/.config/sublime-text-2/Packages
 * Portable Installation:
     Sublime Text 2/Data/Packages
 
