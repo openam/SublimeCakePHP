@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->loadConfig(${1:\$configFile}, ${2:\$path = null});]]></content>
+	<tabTrigger>loadConfig</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->loadConfig()</description>
+</snippet>

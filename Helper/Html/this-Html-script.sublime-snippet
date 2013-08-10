@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Html->script(array('${1:path/to/script}'$2));]]></content>
+	<content><![CDATA[echo \$this->Html->script(${1:\$url}, ${2:\$options});]]></content>
 	<tabTrigger>script</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Html->script()</description>

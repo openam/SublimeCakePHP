@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->div(${1:\$class}, ${2:\$text}, ${3:\$options});]]></content>
+	<tabTrigger>div</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->div()</description>
+</snippet>

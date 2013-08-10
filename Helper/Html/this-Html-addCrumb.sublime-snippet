@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Html->addCrumb(${1:\$name}, ${2:\$link = null}, ${3:\$options = null});]]></content>
+	<tabTrigger>addCrumb</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->addCrumb()</description>
+</snippet>

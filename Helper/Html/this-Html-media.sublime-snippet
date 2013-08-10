@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->media(${1:\$path}, ${2:\$options});]]></content>
+	<tabTrigger>media</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->media()</description>
+</snippet>

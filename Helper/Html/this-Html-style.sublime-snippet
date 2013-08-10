@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->style(${1:\$data}, ${2:\$online = true});]]></content>
+	<tabTrigger>style</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->style()</description>
+</snippet>

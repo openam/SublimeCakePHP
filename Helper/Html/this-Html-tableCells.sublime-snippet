@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->tableCells(${1:\$data}, ${2:\$oddTrOptions = null}, ${3:\$evenTrOptions = null}, ${4:\$useCount = false}, ${5:\$continueOddEven = true});]]></content>
+	<tabTrigger>tableCells</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->tableCells()</description>
+</snippet>

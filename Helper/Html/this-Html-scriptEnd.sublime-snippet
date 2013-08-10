@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->scriptEnd();]]></content>
+	<tabTrigger>scriptEnd</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->scriptEnd()</description>
+</snippet>

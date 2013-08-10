@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->getCrumbs(${1:\$separator = '&raquo;'}, ${2:\$startText = false});]]></content>
+	<tabTrigger>getCrumbs</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->getCrumbs()</description>
+</snippet>

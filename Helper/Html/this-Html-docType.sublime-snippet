@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Html->docType('${1:HTML5}');$2]]></content>
+	<content><![CDATA[echo \$this->Html->docType('${1:HTML5}');]]></content>
 	<tabTrigger>docType</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Html->docType()</description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->useTag(${1:\$tag});]]></content>
+	<tabTrigger>useTag</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->useTag()</description>
+</snippet>

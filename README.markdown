@@ -55,10 +55,30 @@ Helpers
     * $this->Form->unlockField       : unlockField
     * $this->Form->secure            : secure
 
+    * $this->Html->addCrumb          : addCrumb
+    * $this->Html->charset           : charset
     * $this->Html->css               : css
+    * $this->Html->div               : div
+    * $this->Html->dockType          : dockType
+    * $this->Html->getCrumbList      : getCrumbList
+    * $this->Html->getCrumbs         : getCrumbs
+    * $this->Html->image             : image
     * $this->Html->link              : link
+    * $this->Html->loadConfig        : loadConfig
+    * $this->Html->media             : media
+    * $this->Html->meta              : meta
+    * $this->Html->nestedList        : nestedList
+    * $this->Html->para              : para
     * $this->Html->script            : script
+    * $this->Html->scriptBlock       : scriptBlock
+    * $this->Html->scriptEnd         : scriptEnd
+    * $this->Html->scriptStart       : scriptStart
+    * $this->Html->style             : style
+    * $this->Html->tableCells        : tableCells
+    * $this->Html->tableHeaders      : tableHeaders
+    * $this->Html->tag               : tag
     * $this->Html->url               : url
+    * $this->Html->useTag            : useTag
 
     * $this->Number->addFormat       : addFormat
     * $this->Number->currency        : currency

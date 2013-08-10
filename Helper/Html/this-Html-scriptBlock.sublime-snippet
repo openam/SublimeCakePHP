@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Html->scriptBlock(${1:\$code}, ${2:\$options = array()});]]></content>
+	<tabTrigger>scriptBlock</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Html->scriptBlock()</description>
+</snippet>

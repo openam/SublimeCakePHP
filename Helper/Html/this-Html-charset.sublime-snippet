@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Html->charset(${1:});$2]]></content>
+	<content><![CDATA[echo \$this->Html->charset(${1:\$charset = null});]]></content>
 	<tabTrigger>charset</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Html->charset()</description>
