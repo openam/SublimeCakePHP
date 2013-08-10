@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:echo }\$this->Time->dayAsSql(${2:\$dateString}, ${3:\$field_name}, ${4:\$timezone = null});$5]]></content>
+	<content><![CDATA[${1:echo }\$this->Time->dayAsSql(${2:\$dateString}, ${3:\$field_name}, ${4:\$timezone = null});]]></content>
 	<tabTrigger>dayAsSql</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Time->dayAsSql()</description>

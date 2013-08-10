@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Form->unlockField(${1:\$fieldName});$10]]></content>
+	<content><![CDATA[echo \$this->Form->unlockField(${1:\$fieldName});]]></content>
 	<tabTrigger>unlockField</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Form->unlockField()</description>

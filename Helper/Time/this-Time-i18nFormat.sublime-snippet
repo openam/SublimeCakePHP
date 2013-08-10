@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:echo }\$this->Time->i18nFormat(${2:\$date}, ${3:\$format = null}, ${5:\$invalid = false}, ${6:\$timezone = null});$7]]></content>
+	<content><![CDATA[${1:echo }\$this->Time->i18nFormat(${2:\$date}, ${3:\$format = null}, ${5:\$invalid = false}, ${6:\$timezone = null});]]></content>
 	<tabTrigger>i18nFormat</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Time->i18nFormat()</description>

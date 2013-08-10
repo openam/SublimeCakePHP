@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CakeLog::write(${1:\$level}, ${2:\$message}, ${3:\$scope = array()});$4]]></content>
+	<content><![CDATA[CakeLog::write(${1:\$level}, ${2:\$message}, ${3:\$scope = array()});]]></content>
 	<tabTrigger>write</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: CakeLog::write()</description>

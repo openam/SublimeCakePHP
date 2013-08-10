@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CakeNumber::fromReadableSize(${1:\$size}, ${2:\$default});$3]]></content>
+	<content><![CDATA[CakeNumber::fromReadableSize(${1:\$size}, ${2:\$default});]]></content>
 	<tabTrigger>fromReadableSize</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: CakeNumber::fromReadableSize()</description>

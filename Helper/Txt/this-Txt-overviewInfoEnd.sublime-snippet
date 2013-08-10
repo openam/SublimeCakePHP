@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Txt->overviewInfoEnd();$1]]></content>
+	<content><![CDATA[echo \$this->Txt->overviewInfoEnd();]]></content>
 	<tabTrigger>oie</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Txt->overviewInfoEnd();</description>

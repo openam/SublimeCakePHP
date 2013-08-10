@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:echo }\$this->Time->toServer(${2:\$dateString}, ${3:\$timezone = null}, ${4:\$format = 'Y-m-d H:i:s'});$5]]></content>
+	<content><![CDATA[${1:echo }\$this->Time->toServer(${2:\$dateString}, ${3:\$timezone = null}, ${4:\$format = 'Y-m-d H:i:s'});]]></content>
 	<tabTrigger>toServer</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Time->toServer()</description>

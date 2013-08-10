@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Form->label(${1:\$fieldName}, ${2:\$text}, ${3:\$options});$10]]></content>
+	<content><![CDATA[echo \$this->Form->label(${1:\$fieldName}, ${2:\$text}, ${3:\$options});]]></content>
 	<tabTrigger>label</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Form->label()</description>

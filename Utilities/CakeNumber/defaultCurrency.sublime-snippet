@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CakeNumber::defaultCurrency(${1:\$currency});$2]]></content>
+	<content><![CDATA[CakeNumber::defaultCurrency(${1:\$currency});]]></content>
 	<tabTrigger>defaultCurrency</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: CakeNumber::defaultCurrency()</description>

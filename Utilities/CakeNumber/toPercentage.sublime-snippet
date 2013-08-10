@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CakeNumber::toPercentage(${1:\$number}, ${2:\$precision = 2});$3]]></content>
+	<content><![CDATA[CakeNumber::toPercentage(${1:\$number}, ${2:\$precision = 2});]]></content>
 	<tabTrigger>toPercentage</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: CakeNumber::toPercentage()</description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cache::write(${1:\$key}, ${2:\$value}, ${3:\$config = 'default'});$4]]></content>
+	<content><![CDATA[Cache::write(${1:\$key}, ${2:\$value}, ${3:\$config = 'default'});]]></content>
 	<tabTrigger>write</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: Cache::write()</description>

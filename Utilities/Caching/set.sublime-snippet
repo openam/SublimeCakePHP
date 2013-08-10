@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cache::set(${1:\$settings = array()}, ${2:\$value = null}, ${3:\$config = 'default'});$4]]></content>
+	<content><![CDATA[Cache::set(${1:\$settings = array()}, ${2:\$value = null}, ${3:\$config = 'default'});]]></content>
 	<tabTrigger>set</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: Cache::set()</description>

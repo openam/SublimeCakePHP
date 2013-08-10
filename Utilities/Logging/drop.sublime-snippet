@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CakeLog::drop(${1:\$name});$2]]></content>
+	<content><![CDATA[CakeLog::drop(${1:\$name});]]></content>
 	<tabTrigger>drop</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: CakeLog::drop()</description>

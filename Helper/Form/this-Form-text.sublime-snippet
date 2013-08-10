@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Form->text(${1:\$name}, ${2:\$options});$10]]></content>
+	<content><![CDATA[echo \$this->Form->text(${1:\$name}, ${2:\$options});]]></content>
 	<tabTrigger>text</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Form->text()</description>

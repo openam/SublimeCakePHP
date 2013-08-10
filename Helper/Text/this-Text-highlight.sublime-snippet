@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:echo }\$this->Text->highlight(${2:\$haystack}, ${3:\$needle}, ${4:\$options=array()});$5]]></content>
+	<content><![CDATA[${1:echo }\$this->Text->highlight(${2:\$haystack}, ${3:\$needle}, ${4:\$options=array()});]]></content>
 	<tabTrigger>highlight</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Text->highlight()</description>

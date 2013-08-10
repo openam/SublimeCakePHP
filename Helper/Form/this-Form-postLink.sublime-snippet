@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Form->postLink(${1:\$title}, ${2:\$url = null}, ${3:\$options = array()});$10]]></content>
+	<content><![CDATA[echo \$this->Form->postLink(${1:\$title}, ${2:\$url = null}, ${3:\$options = array()});]]></content>
 	<tabTrigger>postLink</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Form->postLink()</description>

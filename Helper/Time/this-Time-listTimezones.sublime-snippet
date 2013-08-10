@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:echo }\$this->Time->listTimezones(${2:\$filter = null}, ${3:\$country = null}, ${4:\$group = true});$5]]></content>
+	<content><![CDATA[${1:echo }\$this->Time->listTimezones(${2:\$filter = null}, ${3:\$country = null}, ${4:\$group = true});]]></content>
 	<tabTrigger>listTimezones</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Time->listTimezones()</description>

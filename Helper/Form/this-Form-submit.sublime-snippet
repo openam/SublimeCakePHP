@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Form->submit(${1:\$caption}, ${2:\$options});$10]]></content>
+	<content><![CDATA[echo \$this->Form->submit(${1:\$caption}, ${2:\$options});]]></content>
 	<tabTrigger>submit</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Form->submit()</description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:echo }\$this->Text->toList(${2:\$list}, ${3:\$and='and'});$4]]></content>
+	<content><![CDATA[${1:echo }\$this->Text->toList(${2:\$list}, ${3:\$and='and'});]]></content>
 	<tabTrigger>toList</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Text->toList()</description>

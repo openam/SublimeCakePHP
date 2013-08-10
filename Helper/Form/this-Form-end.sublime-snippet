@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Form->end(${1:\$options = null});$10]]></content>
+	<content><![CDATA[echo \$this->Form->end(${1:\$options = null});]]></content>
 	<tabTrigger>end</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Form->end()</description>

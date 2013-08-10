@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Form->dateTime(${1:\$fieldName}, ${2:\$dateFormat = 'DMY'}, ${3:\$timeFormat = '12'}, ${4:\$attributes = array()});$10]]></content>
+	<content><![CDATA[echo \$this->Form->dateTime(${1:\$fieldName}, ${2:\$dateFormat = 'DMY'}, ${3:\$timeFormat = '12'}, ${4:\$attributes = array()});]]></content>
 	<tabTrigger>dateTime</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Form->dateTime()</description>

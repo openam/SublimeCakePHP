@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Form->inputDefaults(${1:\$defaults = array()});$10]]></content>
+	<content><![CDATA[echo \$this->Form->inputDefaults(${1:\$defaults = array()});]]></content>
 	<tabTrigger>inputDefaults</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Form->inputDefaults()</description>

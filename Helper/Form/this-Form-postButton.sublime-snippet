@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Form->postButton(${1:\$title}, ${2:\$url}, ${3:\$options = array()});$10]]></content>
+	<content><![CDATA[echo \$this->Form->postButton(${1:\$title}, ${2:\$url}, ${3:\$options = array()});]]></content>
 	<tabTrigger>postButton</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Form->postButton()</description>

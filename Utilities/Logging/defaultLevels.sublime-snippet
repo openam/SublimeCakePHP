@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CakeLog::defaultLevels();$1]]></content>
+	<content><![CDATA[CakeLog::defaultLevels();]]></content>
 	<tabTrigger>defaultLevels</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: CakeLog::defaultLevels()</description>

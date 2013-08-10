@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:echo }\$this->Time->convertSpecifiers(${2:\$format}, ${3:\$time = null});$4]]></content>
+	<content><![CDATA[${1:echo }\$this->Time->convertSpecifiers(${2:\$format}, ${3:\$time = null});]]></content>
 	<tabTrigger>convertSpecifiers</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Time->convertSpecifiers()</description>

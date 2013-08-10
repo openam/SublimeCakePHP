@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Form->select(${1:\$fieldName}, ${2:\$options}, ${3:\$attributes});$10]]></content>
+	<content><![CDATA[echo \$this->Form->select(${1:\$fieldName}, ${2:\$options}, ${3:\$attributes});]]></content>
 	<tabTrigger>select</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Form->select()</description>

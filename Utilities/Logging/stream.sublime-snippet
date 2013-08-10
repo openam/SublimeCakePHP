@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CakeLog::stream(${1:\$streamName});$2]]></content>
+	<content><![CDATA[CakeLog::stream(${1:\$streamName});]]></content>
 	<tabTrigger>stream</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: CakeLog::stream()</description>

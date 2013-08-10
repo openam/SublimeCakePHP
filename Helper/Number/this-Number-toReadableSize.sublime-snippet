@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[echo \$this->Number->toReadableSize(${1:\$number});$10]]></content>
+	<content><![CDATA[echo \$this->Number->toReadableSize(${1:\$number});]]></content>
 	<tabTrigger>toReadableSize</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Number->toReadableSize()</description>

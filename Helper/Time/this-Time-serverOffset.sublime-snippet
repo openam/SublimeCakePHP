@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:echo }\$this->Time->serverOffset();$2]]></content>
+	<content><![CDATA[${1:echo }\$this->Time->serverOffset();]]></content>
 	<tabTrigger>serverOffset</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Time->serverOffset()</description>

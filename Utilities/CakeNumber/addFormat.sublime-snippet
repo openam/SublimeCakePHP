@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CakeNumber::addFormat(${1:\$formatName}, ${2:\$options});$3]]></content>
+	<content><![CDATA[CakeNumber::addFormat(${1:\$formatName}, ${2:\$options});]]></content>
 	<tabTrigger>addFormat</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: CakeNumber::addFormat()</description>

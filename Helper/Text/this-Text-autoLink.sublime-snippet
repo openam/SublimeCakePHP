@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:echo }\$this->Text->autoLink(${2:\$text}, ${3:\$htmlOptions=array()});$4]]></content>
+	<content><![CDATA[${1:echo }\$this->Text->autoLink(${2:\$text}, ${3:\$htmlOptions=array()});]]></content>
 	<tabTrigger>autoLink</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Text->autoLink()</description>
