@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Form->inputs(${1:\$fields = null}, ${2:\$blacklist = null});$10]]></content>
+	<tabTrigger>inputs</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Form->inputs()</description>
+</snippet>

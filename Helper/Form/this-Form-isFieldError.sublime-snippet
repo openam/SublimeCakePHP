@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Form->isFieldError(${1:\$fieldName});$10]]></content>
+	<tabTrigger>isFieldError</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Form->isFieldError()</description>
+</snippet>

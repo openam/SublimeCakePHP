@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Form->hidden(${1:\$fieldName}, ${2:\$options});$10]]></content>
+	<tabTrigger>hidden</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Form->hidden()</description>
+</snippet>

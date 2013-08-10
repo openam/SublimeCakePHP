@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Form->input(${1:\$fieldName}, ${2:\$options = array()});$10]]></content>
+	<tabTrigger>input</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Form->input()</description>
+</snippet>

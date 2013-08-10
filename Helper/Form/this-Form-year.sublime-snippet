@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Form->year(${1:\$fieldName}, ${2:\$minYear}, ${3:\$maxYear}, ${4:\$attributes});$10]]></content>
+	<tabTrigger>year</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Form->year()</description>
+</snippet>

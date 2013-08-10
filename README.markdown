@@ -25,6 +25,36 @@ Components
 
 Helpers
 
+    * $this->Form->create            : create
+    * $this->Form->end               : end
+    * $this->Form->input             : input
+    * $this->Form->inputs            : inputs
+    * $this->Form->label             : label
+    * $this->Form->text              : text
+    * $this->Form->password          : password
+    * $this->Form->hidden            : hidden
+    * $this->Form->textarea          : textarea
+    * $this->Form->checkbox          : checkbox
+    * $this->Form->radio             : radio
+    * $this->Form->select            : select
+    * $this->Form->file              : file
+    * $this->Form->submit            : submit
+    * $this->Form->button            : button
+    * $this->Form->postButton        : postButton
+    * $this->Form->postLink          : postLink
+    * $this->Form->dateTime          : dateTime
+    * $this->Form->year              : year
+    * $this->Form->month             : month
+    * $this->Form->day               : day
+    * $this->Form->hour              : hour
+    * $this->Form->minute            : minute
+    * $this->Form->meridian          : meridian
+    * $this->Form->error             : error
+    * $this->Form->isFieldError      : isFieldError
+    * $this->Form->inputDefaults     : inputDefaults
+    * $this->Form->unlockField       : unlockField
+    * $this->Form->secure            : secure
+
     * $this->Html->css               : css
     * $this->Html->link              : link
     * $this->Html->script            : script

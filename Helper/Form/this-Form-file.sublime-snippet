@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Form->file(${1:\$fieldName}, ${2:\$options});$10]]></content>
+	<tabTrigger>file</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Form->file()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Form->day(${1:\$fieldName}, ${2:\$attributes});$10]]></content>
+	<tabTrigger>day</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Form->day()</description>
+</snippet>

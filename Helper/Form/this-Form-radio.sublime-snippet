@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Form->radio(${1:\$fieldName}, ${2:\$options}, ${3:\$attributes});$10]]></content>
+	<tabTrigger>radio</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Form->radio()</description>
+</snippet>

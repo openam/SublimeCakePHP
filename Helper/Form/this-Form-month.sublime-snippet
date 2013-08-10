@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Form->month(${1:\$fieldName}, ${2:\$attributes});$10]]></content>
+	<tabTrigger>month</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Form->month()</description>
+</snippet>
