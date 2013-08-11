@@ -9,7 +9,7 @@
 			"platforms": {
 				"*": [
 					{
-						"version": "1.0.0",
+						"version": "1.1.0",
 						"url": "https://nodeload.github.com/openam/SublimeCakePHP/master"
 					}
 				]
