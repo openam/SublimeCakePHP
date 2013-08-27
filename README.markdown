@@ -130,6 +130,13 @@ Misc Snippets
     * $this->request->data           : trd
     * debug();                       : db
 
+    * firecake();                    : fc
+    * FireCake::dump();              : fcd
+    * FireCake::error();             : fce
+    * FireCake::info();              : fci
+    * FireCake::log();               : fcl
+    * FireCake::warn();              : fcw
+
 Utilities
 
     * Cache::clear                   : clear
