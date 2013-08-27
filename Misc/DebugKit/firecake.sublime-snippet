@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[firecake(${1:\$variable});]]></content>
+	<tabTrigger>fc</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: firecake();</description>
+</snippet>

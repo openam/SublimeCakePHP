@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FireCake::dump(${1:\$label}, ${2:\$message});]]></content>
+	<tabTrigger>fcd</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: FireCake::dump();</description>
+</snippet>

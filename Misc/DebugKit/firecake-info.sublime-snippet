@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FireCake::info(${1:\$variable});]]></content>
+	<tabTrigger>fci</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: FireCake::info();</description>
+</snippet>

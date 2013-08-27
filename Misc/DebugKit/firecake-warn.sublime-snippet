@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FireCake::warn(${1:\$variable});]]></content>
+	<tabTrigger>fcw</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: FireCake::warn();</description>
+</snippet>

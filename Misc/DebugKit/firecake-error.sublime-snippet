@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FireCake::error(${1:\$variable});]]></content>
+	<tabTrigger>fce</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: FireCake::error();</description>
+</snippet>
