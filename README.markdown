@@ -121,7 +121,7 @@ Helpers
     * $this->Time->toRss             : toRss
     * $this->Time->toServer          : toServer
     * $this->Time->toUnix            : toUnix
-    * $this->Time-> wasWithinLast    : wasWithinLast
+    * $this->Time->wasWithinLast     : wasWithinLast
     * $this->Time->wasYesterday      : wasYesterday
 
 Misc Snippets
