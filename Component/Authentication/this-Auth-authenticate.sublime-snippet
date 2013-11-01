@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Auth->authenticate = array($1);]]></content>
+	<tabTrigger>authenticate</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Auth->authenticate()</description>
+</snippet>

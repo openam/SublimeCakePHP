@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Auth->deny(${1:array($2)})]]></content>
+	<tabTrigger>deny</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Auth->deny()</description>
+</snippet>

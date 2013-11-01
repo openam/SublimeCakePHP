@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Auth->allow(${1:array($2)})]]></content>
+	<tabTrigger>allow</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Auth->allow()</description>
+</snippet>

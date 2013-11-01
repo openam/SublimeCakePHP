@@ -15,6 +15,15 @@ Model Specific Snippets:
 
 Components
 
+    * $this->Auth->allow             : allow
+    * $this->Auth->authenticate      : authenticate
+    * $this->Auth->deny              : deny
+    * $this->Auth->loggedIn          : loggedIn
+    * $this->Auth->login             : login
+    * $this->Auth->logout            : logout
+    * $this->Auth->mapActions        : mapActions
+    * $this->Auth->redirectUrl       : redirectUrl
+
     * $this->Session->check          : check
     * $this->Session->delete         : delete
     * $this->Session->destroy        : destroy

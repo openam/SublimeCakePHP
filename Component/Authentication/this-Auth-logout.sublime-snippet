@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Auth->logout()]]></content>
+	<tabTrigger>logout</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Auth->logout()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Auth->redirectUrl()]]></content>
+	<tabTrigger>redirectUrl</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Auth->redirectUrl()</description>
+</snippet>
