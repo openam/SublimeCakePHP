@@ -5,6 +5,12 @@ Sublime CakePHP is a bundle of Snippets for [CakePHP](http://cakephp.org). The s
 
 ####Provides the following features:
 
+Controller Specific Snippets:
+
+    * afterFilter                    : afterFilter
+    * beforeFilter                   : beforeFilter
+    * beforeRender                   : beforeRender
+
 Model Specific Snippets:
 
     * belongsTo                      : bt
