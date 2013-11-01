@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[/**
+ * beforeRender callback
+ *
+ * @return void
+ */
+	public function beforeRender() {
+		parent::beforeRender();$1
+	}
+
+]]></content>
+	<tabTrigger>beforeRender</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: beforeRender()</description>
+</snippet>

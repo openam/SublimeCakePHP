@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[/**
+ * beforeFilter callback
+ *
+ * @return void
+ */
+	public function beforeFilter() {
+		parent::beforeFilter();$1
+	}
+
+]]></content>
+	<tabTrigger>beforeFilter</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: beforeFilter()</description>
+</snippet>

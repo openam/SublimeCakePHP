@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[/**
+ * afterFilter callback
+ *
+ * @return void
+ */
+	public function afterFilter() {
+		parent::afterFilter();$1
+	}
+
+]]></content>
+	<tabTrigger>afterFilter</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: afterFilter()</description>
+</snippet>
