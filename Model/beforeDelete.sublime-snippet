@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[/**
+ * beforeDelete callback
+ *
+ * @param \$cascade boolean
+ * @return boolean
+ */
+	public function beforeDelete(${1:\$cascade = true}) {
+		$2
+		return true;
+	}
+
+]]></content>
+	<tabTrigger>beforeDelete</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: beforeDelete()</description>
+</snippet>

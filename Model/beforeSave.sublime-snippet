@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[/**
+ * beforeSave callback
+ *
+ * @param \$options array
+ * @return boolean
+ */
+	public function beforeSave(${1:\$options}) {
+		$2
+		return true;
+	}
+
+]]></content>
+	<tabTrigger>beforeSave</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: beforeSave()</description>
+</snippet>

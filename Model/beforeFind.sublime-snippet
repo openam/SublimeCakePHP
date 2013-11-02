@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[/**
+ * beforeFind callback
+ *
+ * @param \$query array
+ * @return mixed
+ */
+	public function beforeFind(${1:\$query}) {
+		$2
+		return \$query;
+	}
+
+]]></content>
+	<tabTrigger>beforeFind</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: beforeFind()</description>
+</snippet>

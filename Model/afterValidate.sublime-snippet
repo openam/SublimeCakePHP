@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[/**
+ * afterValidate callback
+ *
+ * @return boolean
+ */
+	public function afterValidate() {
+		$1
+		return true;
+	}
+
+]]></content>
+	<tabTrigger>afterValidate</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: afterValidate()</description>
+</snippet>

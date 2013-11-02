@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[/**
+ * afterSave callback
+ *
+ * @param \$created boolean
+ * @param \$options array
+ * @return void
+ */
+	public function afterSave(${1:\$created}, ${2:\$options = array()}) {
+		$3
+	}
+
+]]></content>
+	<tabTrigger>afterSave</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: afterSave()</description>
+</snippet>

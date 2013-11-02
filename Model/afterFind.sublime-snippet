@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[/**
+ * afterFind callback
+ *
+ * @param \$results array
+ * @param \$primary boolean
+ * @return mixed
+ */
+	public function afterFind(${1:\$results}, ${2:\$primary = false}) {
+		$3
+		return \$results;
+	}
+
+]]></content>
+	<tabTrigger>afterFind</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: afterFind()</description>
+</snippet>

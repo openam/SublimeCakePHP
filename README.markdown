@@ -13,6 +13,13 @@ Controller Specific Snippets:
 
 Model Specific Snippets:
 
+    * afterDelete                    : afterDelete
+    * afterFind                      : afterFind
+    * afterSave                      : afterSave
+    * afterValidate                  : afterValidate
+    * beforeDelete                   : beforeDelete
+    * beforeSave                     : beforeSave
+    * beforeValidate                 : beforeValidate
     * belongsTo                      : bt
     * hasAndBelongsToMany            : habtm
     * hasMany                        : hm

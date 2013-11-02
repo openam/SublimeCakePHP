@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[/**
+ * beforeValidate callback
+ *
+ * @param \$options array
+ * @return boolean
+ */
+	public function beforeValidate(${1:\$options}) {
+		$2
+		return true;
+	}
+
+]]></content>
+	<tabTrigger>beforeValidate</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: beforeValidate()</description>
+</snippet>
