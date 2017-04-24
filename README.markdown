@@ -1,7 +1,7 @@
 SublimeCakePHP
 =================
 
-Sublime CakePHP is a bundle of Snippets for [CakePHP](http://cakephp.org). The snippets are geared towards the baked results from CakePHP 2.0.X.
+Sublime CakePHP is a bundle of Snippets for [CakePHP](http://cakephp.org). The snippets are geared towards the baked results from CakePHP 3.x.
 
 ####Provides the following features:
 
@@ -210,35 +210,38 @@ Utilities
     * Inflector::tableize            : tablize
     * Inflector::underscore          : underscore
     * Inflector::variable            : variable
+    
+    * Configure::read                : read
+    * Configure::write               : write
 
 Installing
 ----------
 
 *With Package Manager:*
 
-* Press "ctnl+shift+p"
+* Press "ctrl+shift+p"
 * Enter "Package Control: Add Repository"
-* Enter "https://github.com/openam/SublimeCakePHP"
-* Press "ctnl+shift+p"
+* Enter "https://github.com/maiconpinto/SublimeCakePHP"
+* Press "ctrl+shift+p"
 * Enter "Package Control: Install Package"
 * Enter "SublimeCakePHP"
 
-*Without Git:* Download the latest source from http://github.com/openam/SublimeCakePHP and copy the whole directory into the Packages directory.
+*Without Git:* Download the latest source from http://github.com/maiconpinto/SublimeCakePHP and copy the whole directory into the Packages directory.
 
-*With Git:* Clone the repository in your Sublime Text 2 Packages directory, located somewhere in user's "Home" directory:
+*With Git:* Clone the repository in your Sublime Text 3 Packages directory, located somewhere in user's "Home" directory:
 
-> git clone git://github.com/openam/SublimeCakePHP.git
+> git clone git://github.com/maiconpinto/SublimeCakePHP.git
 
 The "Packages" directory should be located at:
 
 * Windows:
-    %APPDATA%\Sublime Text 2\Packages
+    %APPDATA%\Sublime Text 3\Packages
 * OS X:
-    ~/Library/Application Support/Sublime Text 2/Packages
+    ~/Library/Application Support/Sublime Text 3/Packages
 * Linux:
-    ~/.config/sublime-text-2/Packages
+    ~/.config/sublime-text-3/Packages
 * Portable Installation:
-    Sublime Text 2/Data/Packages
+    Sublime Text 3/Data/Packages
 
 License
 -------
