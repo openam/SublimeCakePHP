@@ -221,16 +221,16 @@ Installing
 
 * Press "ctrl+shift+p"
 * Enter "Package Control: Add Repository"
-* Enter "https://github.com/maiconpinto/SublimeCakePHP"
+* Enter "http://github.com/openam/SublimeCakePHP"
 * Press "ctrl+shift+p"
 * Enter "Package Control: Install Package"
 * Enter "SublimeCakePHP"
 
-*Without Git:* Download the latest source from http://github.com/maiconpinto/SublimeCakePHP and copy the whole directory into the Packages directory.
+*Without Git:* Download the latest source from http://github.com/openam/SublimeCakePHP and copy the whole directory into the Packages directory.
 
 *With Git:* Clone the repository in your Sublime Text 3 Packages directory, located somewhere in user's "Home" directory:
 
-> git clone git://github.com/maiconpinto/SublimeCakePHP.git
+> git clone git://github.com/openam/SublimeCakePHP.git
 
 The "Packages" directory should be located at:
 
