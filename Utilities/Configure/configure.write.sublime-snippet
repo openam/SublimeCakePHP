@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Configure::write('${1:key}','${2:value}');]]></content>
+	<tabTrigger>write</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: Configure::write('key','value')</description>
+</snippet>

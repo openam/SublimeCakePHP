@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Configure::read('${1:key}');]]></content>
+	<tabTrigger>read</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: Configure::read('key')</description>
+</snippet>
