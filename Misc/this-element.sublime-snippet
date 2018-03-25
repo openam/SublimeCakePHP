@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[echo \$this->element('${1:element}', ${2:\$options = array()});]]></content>
+    <tabTrigger>element</tabTrigger>
+    <scope>source.php</scope>
+    <description>CakePHP: $this->element();</description>
+</snippet>
