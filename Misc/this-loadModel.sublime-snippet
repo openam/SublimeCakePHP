@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$this->loadModel('${1:model}');]]></content>
+    <tabTrigger>loadModel</tabTrigger>
+    <scope>source.php</scope>
+    <description>CakePHP: $this->loadModel();</description>
+</snippet>
