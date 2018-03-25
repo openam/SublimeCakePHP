@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Flash->render(${1});]]></content>
+	<tabTrigger>render</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Flash->render()</description>
+</snippet>
