@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$this->set('${1:option}', ${2:\$value});]]></content>
+    <tabTrigger>set</tabTrigger>
+    <scope>source.php</scope>
+    <description>CakePHP: $this->set();</description>
+</snippet>
