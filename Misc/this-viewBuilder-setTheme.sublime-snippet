@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$this->viewBuilder()->setTheme('${1:theme}');]]></content>
+    <tabTrigger>setTheme</tabTrigger>
+    <scope>source.php</scope>
+    <description>CakePHP: $this->viewBuilder()->setTheme();</description>
+</snippet>

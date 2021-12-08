@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[echo \$this->redirect(${1:\$url = array()});]]></content>
+    <tabTrigger>redirect</tabTrigger>
+    <scope>source.php</scope>
+    <description>CakePHP: $this->redirect();</description>
+</snippet>
